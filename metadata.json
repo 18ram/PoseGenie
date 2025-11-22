@@ -1,0 +1,7 @@
+{
+  "name": "PoseGenie",
+  "description": "AI-powered selfie pose assistant with face shape detection and AR pose guides.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
